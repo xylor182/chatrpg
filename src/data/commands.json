@@ -1,0 +1,3208 @@
+[
+    {
+        "name": "+s",
+        "permission": "mod",
+        "description": ".subscribers",
+        "count": 0,
+        "cooldown": "1"
+    },
+    {
+        "name": "-s",
+        "permission": "mod",
+        "description": ".subscribersoff",
+        "count": 0,
+        "cooldown": "1"
+    },
+    {
+        "name": "!modtest",
+        "permission": "mod",
+        "description": "If this command works for you, you are listed as a mod on the bot.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!crash",
+        "permission": "sub",
+        "description": "Timmac has crashed @count times.",
+        "count": 1785,
+        "cooldown": "20"
+    },
+    {
+        "name": "!notsupport",
+        "permission": "sub",
+        "description": "This isn't that other streamer's support channel. Take it to twitch messages.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!steam",
+        "permission": "all",
+        "description": "Join Timmac's Steam group at: http://steamcommunity.com/groups/timmac . Feel free to use the group chat to hang out with other people in the stream.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!soundcloud",
+        "permission": "all",
+        "description": "Recordings of Timmac playing piano can be found at: https://www.soundcloud.com/timmactv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!links",
+        "permission": "all",
+        "description": "Subs have automatic permission to post links. Non-subs must ask permission from a mod or Timmac before posting and describe what your link is for.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hon",
+        "permission": "all",
+        "description": "https://www.twitch.tv/honathantv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!complaint",
+        "permission": "all",
+        "description": "http://www.timmac.tv/images/complaint.jpg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!songrequest",
+        "permission": "all",
+        "description": "We don't do song requests here.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sr",
+        "permission": "all",
+        "description": "We don't do song requests here.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rigged",
+        "permission": "all",
+        "description": "Probably not timmacF",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!katt",
+        "permission": "all",
+        "description": "http://www.twitch.tv/kattnftl",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sal",
+        "permission": "all",
+        "description": "http://www.twitch.tv/sal_rosenberg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!alan",
+        "permission": "all",
+        "description": "http://www.twitch.tv/paynebizkit",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chairmac",
+        "permission": "all",
+        "description": "Have no fear, Chairmac is here! http://imgur.com/6fjlPHR",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!alek",
+        "permission": "all",
+        "description": "http://www.twitch.tv/ PJSalt",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lex",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lexveldhuis learn poker from the best. give him a follow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!casperino",
+        "permission": "all",
+        "description": "https://www.twitch.tv/casperino",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mooshe",
+        "permission": "all",
+        "description": "Head over to https://www.twitch.tv/mooshe and give him a follow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vana",
+        "permission": "all",
+        "description": "https://www.twitch.tv/vana",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hirona",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hirona",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dayz",
+        "permission": "all",
+        "description": "https://clips.twitch.tv/CharmingHandsomeBorkM4xHeh",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ava",
+        "permission": "all",
+        "description": "https://www.twitch.tv/avagg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hh",
+        "permission": "all",
+        "description": "The Household is a Stream Team comprised of spectacular professional Twitch broadcasters. Be sure to check them out and give them a follow! https://www.twitch.tv/team/thehousehold",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!coltons",
+        "permission": "all",
+        "description": "www.twitch.tv/coolidge - Cash twitch.tv/dimitri - Clem twitch.tv/mrmoonshouse - Kang twitch.tv/selvek - Clayton twitch.tv/thadrius - Cliff twitch.tv/wish - Clara twitch.tv/disbearex - Clarice twitch.tv/soleficent - Carly twitch.tv/cinnamontoastken - Buck",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nova",
+        "permission": "all",
+        "description": "https://www.twitch.tv/spartle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!msbrit",
+        "permission": "all",
+        "description": "https://www.twitch.tv/msbrit",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!knox",
+        "permission": "all",
+        "description": "http://twitch.tv/orangelabrador",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tori",
+        "permission": "all",
+        "description": "https://www.twitch.tv/msbrit",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!daniel",
+        "permission": "all",
+        "description": "https://www.twitch.tv/jaboodyshow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!murphy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/nerd",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sol",
+        "permission": "all",
+        "description": "https://www.twitch.tv/soleficent",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mike",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mikethebard (formally known as as TVSBOH)",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!killian",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mikethebard (formally known as as TVSBOH)",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ssaab",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ssaab",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!queue",
+        "permission": "all",
+        "description": "The queue is long, so love the character we are on! timmacH",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!leonard",
+        "permission": "all",
+        "description": "https://www.twitch.tv/miggitymaan",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!myth",
+        "permission": "all",
+        "description": "https://www.twitch.tv/Mythematic",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!coolidge",
+        "permission": "all",
+        "description": "https://www.twitch.tv/coolidge",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!wayne",
+        "permission": "all",
+        "description": "https://www.twitch.tv/wildwayne",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!zhane",
+        "permission": "all",
+        "description": "He plays Jerry and David the Mime! https://www.twitch.tv/zhanetaylor",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!holtz",
+        "permission": "all",
+        "description": "https://www.twitch.tv/o_oakleyz_o",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sams",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sams",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!beck",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sheriffbeck",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!katie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/katie",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dress",
+        "permission": "all",
+        "description": "It already happened! Wife Mac is going to cook for us instead. Who REALLY wants to see Tim in a dress again anyway? timmacLEWD",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!instagram",
+        "permission": "all",
+        "description": "Follow Timmac on Instagram https://www.instagram.com/timmactv/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!n3f",
+        "permission": "all",
+        "description": "Timmac is a Senior Content Producer at N3RDFUSION! Find out more about N3RDFUSION here: https://n3rdfusion.tv/about",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!n3rd",
+        "permission": "all",
+        "description": "Timmac is now a managed streamer of N3RDFUSION! Find out more about N3RDFUSION here: https://n3rdfusion.tv/about",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dragon",
+        "permission": "all",
+        "description": "https://twitch.tv/ironmonkeytv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!milton",
+        "permission": "all",
+        "description": "https://www.twitch.tv/miltontpike1",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bgiveaway",
+        "permission": "all",
+        "description": "Take your chances and enter the 24hour timeout raffle to become a chat LEGEND every 100 subs! (Due to the massive Gift Subs) A true chat Russian roulette! Mods and VIPs enter too!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!twitter",
+        "permission": "all",
+        "description": "/me Follow Timmac on Twitter! https://twitter.com/timmac_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jessie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sarapocalypse",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!selvek",
+        "permission": "all",
+        "description": "https://www.twitch.tv/selvek",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jam",
+        "permission": "all",
+        "description": "follow jam!!! http://twitch.tv/tehjamjar",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shp",
+        "permission": "all",
+        "description": "https://www.twitch.tv/shp_tv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gassy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gassymexican",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!crotchcam",
+        "permission": "all",
+        "description": "Crotchcam activated ! ?? ??",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!penta",
+        "permission": "all",
+        "description": "https://www.twitch.tv/penta",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tankgirl",
+        "permission": "all",
+        "description": "https://www.twitch.tv/tankgirl",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gotshadow",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gotshadow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vert",
+        "permission": "all",
+        "description": "https://www.twitch.tv/vertiigogaming https://www.youtube.com/channel/UCgiJxU4CSEjQ67FylcZ_8qw",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dante",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lewolfy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!walker",
+        "permission": "all",
+        "description": "http://twitch.tv/purescoundrel",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tony",
+        "permission": "all",
+        "description": "http://twitch.tv/anthonyz",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bosco",
+        "permission": "all",
+        "description": "http://twitch.tv/boscoreli",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bucky",
+        "permission": "all",
+        "description": "http://twitch.tv/bucky",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cherry",
+        "permission": "all",
+        "description": "http://twitch.tv/cherrybobomb",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chief",
+        "permission": "all",
+        "description": "http://twitch.tv/chief",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!classy",
+        "permission": "all",
+        "description": "Twitch: https://www.twitch.tv/classypax Youtube: https://www.youtube.com/classypax",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dimitri",
+        "permission": "all",
+        "description": "http://twitch.tv/dimitri",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!moon",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mrmoonshouse",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!wish",
+        "permission": "all",
+        "description": "https://www.twitch.tv/wish",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!thadrius",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thadrius",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!andrews",
+        "permission": "all",
+        "description": "http://twitch.tv/five0antho",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mcbride",
+        "permission": "all",
+        "description": "http://twitch.tv/grabvoid",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mav",
+        "permission": "all",
+        "description": "http://twitch.tv/hazard",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!parker",
+        "permission": "all",
+        "description": "http://twitch.tv/jay_bird",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jess",
+        "permission": "all",
+        "description": "http://twitch.tv/jesscreates",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kregdale",
+        "permission": "all",
+        "description": "http://twitch.tv/kithicor27",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!pinky",
+        "permission": "all",
+        "description": "http://twitch.tv/pinky",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!runwyld",
+        "permission": "all",
+        "description": "http://twitch.tv/runwyld",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sheep",
+        "permission": "all",
+        "description": "http://twitch.tv/sheepdog59",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bruce",
+        "permission": "all",
+        "description": "http://twitch.tv/shp_tv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!silent",
+        "permission": "all",
+        "description": "http://twitch.tv/silentsentry",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!spont",
+        "permission": "all",
+        "description": "http://twitch.tv/spontainy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tasty",
+        "permission": "all",
+        "description": "http://twitch.tv/tastytv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vtrich",
+        "permission": "all",
+        "description": "http://twitch.tv/vtrich",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!zoey",
+        "permission": "all",
+        "description": "http://twitch.tv/zaquelle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!reign",
+        "permission": "all",
+        "description": "http://twitch.tv/zewk",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!reggie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/SirPink",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!waffle",
+        "permission": "all",
+        "description": "Go take a bite out of Waffle! https://www.twitch.tv/giantwaffle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tiger",
+        "permission": "all",
+        "description": "https://www.twitch.tv/tigerwriter",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dishes",
+        "permission": "all",
+        "description": "Follow Dishes on Twitch: twitch.tv/dirtydishess | Subscribe on Youtube https://www.youtube.com/user/PatrioticMoose",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!arma",
+        "permission": "all",
+        "description": "\"It would be a cold day in hell if I ever went back to Arma.\" - Timmac 2017",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ohdeer",
+        "permission": "all",
+        "description": "https://clips.twitch.tv/VivaciousTardyTurnipEleGiggle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!familyrp",
+        "permission": "all",
+        "description": "TheFamilyRP has a Whitelist as well as a Public Server based around RP in GTAV (PC). For more information and how to get in the Public Server visit this website: https://thefamilyrp.com/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!support",
+        "permission": "all",
+        "description": "http://lmgtfy.com/?q=How+to+use+google%3F",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bikeshorts",
+        "permission": "all",
+        "description": "Timmac was a man of his word and completed the bikeshorts 24hr stream on 18th October 2015 (and yes he wore the bikeshorts the whole time!)",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!blame",
+        "permission": "all",
+        "description": "https://imgur.com/XN2AUoT",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dignity",
+        "permission": "all",
+        "description": "Tims Dignity: http://i.imgur.com/PHwhXPO.jpg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!piano",
+        "permission": "all",
+        "description": "https://soundcloud.com/timmactv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!revo",
+        "permission": "all",
+        "description": "Revolution Life is a Life Server heavily modified by Floppy Pancakes. Website: http://forums.rmog.us/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!timlove",
+        "permission": "all",
+        "description": "http://i.imgur.com/SnHF4HJ.jpg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!timrage",
+        "permission": "all",
+        "description": "https://imgur.com/KFwMXw4",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!justgothere",
+        "permission": "all",
+        "description": "https://twitter.com/Timmac_/status/662004817544544257",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cam",
+        "permission": "all",
+        "description": "Hey you noticed the webcam isn't on.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bttv",
+        "permission": "all",
+        "description": "You can download BetterTTV for Chrome or Firefox at: http://www.nightdev.com/betterttv/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ffz",
+        "permission": "all",
+        "description": "https://www.frankerfacez.com/ & https://ffzap.com/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nopixel",
+        "permission": "all",
+        "description": "No Pixel is a Whitelisted Server based around RP in GTAV (PC). For more information: https://www.nopixel.net/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!twinge",
+        "permission": "all",
+        "description": "https://twinge.tv/channels/timmac/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vape",
+        "permission": "all",
+        "description": "Tim is using geekvape L200. Current juice: milk of the poppy. Wanna Share your vapes/juices join the #vape-nation channel in Discord: https://discord.gg/timmac",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!followage",
+        "permission": "all",
+        "description": "Click on your username to see when you followed the channel!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!appeal",
+        "permission": "mod",
+        "description": "Feel like you have been unfairly banned from chat? Then feel free to put a ban appeal on Discord. One of our expert mods will look at your case and will message you the resolve. Click the link to put your appeal in http://www.timmac.tv/banappeal",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!scum",
+        "permission": "all",
+        "description": "SCUM aims to evolve the multiplayer open world survival game with unprecedented levels of character customization, control and progression, where knowledge and skills are the ultimate weapons for long-term survival.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!walrus",
+        "permission": "all",
+        "description": "http://twitch.tv/fistofthewalrus",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!aero",
+        "permission": "all",
+        "description": "https://www.twitch.tv/aero86",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!surfer",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ghillie",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!butch",
+        "permission": "all",
+        "description": "https://www.twitch.tv/itzbutch",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!joshog",
+        "permission": "all",
+        "description": "https://www.twitch.tv/joshog",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!Walter",
+        "permission": "all",
+        "description": "https://www.twitch.tv/learntoswim_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!venalis",
+        "permission": "all",
+        "description": "https://www.twitch.tv/venalis",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nerd",
+        "permission": "all",
+        "description": "This is OUR Nerd timmacNERD http://twitch.tv/nerd",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bfly",
+        "permission": "all",
+        "description": "http://twitch.tv/bfly",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!andre",
+        "permission": "all",
+        "description": "https://www.twitch.tv/Andrep433 give him a DansGame",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!state",
+        "permission": "all",
+        "description": "https://imgur.com/a/ANsvr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chair",
+        "permission": "all",
+        "description": "Herman Miller Aeron Chair, Size B, Graphite, it's on amazon....",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jen",
+        "permission": "all",
+        "description": "https://www.twitch.tv/simplyje2ns",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fuel",
+        "permission": "mod",
+        "description": "Chat has asked me to refuel 9001526 times, so shut up.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ghillie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ghillie",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rights",
+        "permission": "all",
+        "description": "stop asking about rights, ok it's annoying",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bayo",
+        "permission": "all",
+        "description": "http://twitch.tv/xiceman",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!proxy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/pmsproxy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ella",
+        "permission": "all",
+        "description": "IT'S ALL ELLA'S FAULT Kappa",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!10",
+        "permission": "all",
+        "description": "http://bit.ly/2NVtMDp",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!norman",
+        "permission": "all",
+        "description": "https://www.twitch.tv/NotoriousNorman",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lloyd",
+        "permission": "all",
+        "description": "https://www.twitch.tv/MacArthur",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!llama",
+        "permission": "all",
+        "description": "http://www.twitch.tv/curvyllama",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mod",
+        "permission": "all",
+        "description": "Don't ask for Mod, you will get it if Tim wants to give it to you. Forehead jokes do give you an extra edge though.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!strippin",
+        "permission": "all",
+        "description": "https://www.twitch.tv/strippin",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!craig",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hooperist",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dasMehdi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dasmehdi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mega",
+        "permission": "all",
+        "description": "Mega Gang best gang timmacEZ timmacM",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!disbe",
+        "permission": "all",
+        "description": "https://www.twitch.tv/disbearex",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!alen",
+        "permission": "all",
+        "description": "BATON Alenori is watching BATON",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sanya",
+        "permission": "all",
+        "description": "Sanya sees all, knows all, and loves all timmacH",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!josh",
+        "permission": "all",
+        "description": "Ohana means family, and that means you Josh.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gimp",
+        "permission": "all",
+        "description": "The Gimp is played by Mr Moon https://www.twitch.tv/mrmoonshouse",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bikeman",
+        "permission": "all",
+        "description": "https://www.twitch.tv/bikeman",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!atreyu",
+        "permission": "all",
+        "description": "Atreyu NEVER sleeps and sees everything, so be on your best behavior.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!primemeat",
+        "permission": "all",
+        "description": "Get it while it's hot!!!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!5hizzle",
+        "permission": "all",
+        "description": "https://www.twitch.tv/5hizzle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!grimmmz",
+        "permission": "all",
+        "description": "https://www.twitch.tv/grimmmz",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!twitchrp",
+        "permission": "all",
+        "description": "/me TwitchRP currently have there own GTAV RP server. Check them out: https://twitchrp.com",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gallatyn",
+        "permission": "all",
+        "description": "All hail the creator of OnlyFarts and master of awkward flatulence timmacTU POOTERS",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!warframe",
+        "permission": "all",
+        "description": "If you play Warframe make sure to link your twitch and warframe accounts to get exclusive drops. https://www.warframe.com/twitch/link?tt_content=dropsavailable",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!duff",
+        "permission": "all",
+        "description": "https://www.twitch.tv/duffdaddytv give this dude a follow. a genuine nicce dude with high production.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chii",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mechohugger - go give her a follow!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!euiik",
+        "permission": "all",
+        "description": "https://www.twitch.tv/euiik",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gamma",
+        "permission": "all",
+        "description": "Quit fucking asking!!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sloot",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sloot",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cream",
+        "permission": "all",
+        "description": "https://www.twitch.tv/crream",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!burke",
+        "permission": "all",
+        "description": "https://www.twitch.tv/burkeblack",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gift",
+        "permission": "all",
+        "description": "feeling the holiday spirit and want to gift some subs? https://tinyurl.com/ycgejuez timmacG",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!clip",
+        "permission": "all",
+        "description": "CLIP THAT SHIT! timmacPOG",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!barefoot",
+        "permission": "all",
+        "description": "timmacGOM Gomer's idea of a pedicure is slicing off the callouses with a knife and gnawing off the corns and bunions with his teeth timmacGOM",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cletus",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cletusbueford",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chatvoice",
+        "permission": "all",
+        "description": "omg i went to bed and woke up and you're still streaming? timmacDERP",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sc",
+        "permission": "all",
+        "description": "Use Timmacs Star Citizen referral link and earn yourself some extra credits https://robertsspaceindustries.com/enlist?referral=STAR-RBPB-B7ZL",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!org",
+        "permission": "all",
+        "description": "Join our Star Citizen organization at https://robertsspaceindustries.com/orgs/INFE - Discord: https://discord.gg/5FbmFcC",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!roadmap",
+        "permission": "all",
+        "description": "https://www.robertsspaceindustries.com/roadmap/board/1-Star-Citizen",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sandman",
+        "permission": "all",
+        "description": "Go give Jon a follow https://twitch.tv/jonsandman",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sausage",
+        "permission": "all",
+        "description": "/me The Timmac Elite Sausage Exploration and Recovery Alliance (or TESERA - ï¿½Tea-Saraï¿½) is a highly skilled and covert group commissioned by Commander Timmac (although he is sworn to deny their existence). They diligently explore the vastness of space for alien sausage and sausage variants. The TESERA has two main adversaries.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!adversaries",
+        "permission": "all",
+        "description": "/me The Vegetarian Elite Group Against Nasty Sausage (or V.E.G.A.N.S) and the G.S.A.C.S. (Golden Sausage Active Conspiracy Society). The VEGANS feel that all entities should leave sausage alone and keep it apart from our lives (they also frequently cry ï¿½PETAï¿½ a lot or some shit like that). The GSACS believe that TESERA is not only exploring for sausage but are looking for the rare and elusive Golden Sausage which they intend to keep for themselves.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gs",
+        "permission": "all",
+        "description": "/me The Golden Sausage has never been seen by modern humans and all information about it comes from legends of old. However, the Golden Sausage is believed to contain special powers. Special powers that the GSACS think should benefit humankind and not just one particular group.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!catfu",
+        "permission": "all",
+        "description": "https://www.twitch.tv/catfu",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!isthislive",
+        "permission": "all",
+        "description": "Yes, this is live, and you are not the first person to ask",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!anthony",
+        "permission": "all",
+        "description": "https://twitch.tv/anthony_kongphan",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dankweed",
+        "permission": "all",
+        "description": "Follow the dankest of dank https://twitter.com/ShaggyDankweed",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!5head",
+        "permission": "all",
+        "description": "/me https://imgur.com/a/xmTqxk8 Indiana Jones has found the Lost Idol of Fivehead timmacF",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tainted",
+        "permission": "all",
+        "description": "/me timmacRIP RIP timmacRIP https://clips.twitch.tv/SparklyBrainyPeachBatChest",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!banana",
+        "permission": "all",
+        "description": "Tim, you need to eat a banana",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!heat",
+        "permission": "all",
+        "description": "https://tinyurl.com/y86bhgep",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!apex",
+        "permission": "all",
+        "description": "Apex is a brand new BR game from Respawn the creators of Titanfall (and original devs of the COD: Modern Warfare series) Its a fresh take on BR and its Free to Play (Cosmetic only)",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mehdi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dasmehdi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sentry",
+        "permission": "all",
+        "description": "https://www.twitch.tv/silentsentry",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!linz",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lucy757",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!narrator",
+        "permission": "all",
+        "description": "http://twitch.tv/yugoshi_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!larken",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ayayashalay",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lemonade",
+        "permission": "all",
+        "description": "https://www.twitch.tv/NotoriousNorman",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!maxine",
+        "permission": "all",
+        "description": "https://www.twitch.tv/witchcat6",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!romflo",
+        "permission": "all",
+        "description": "according to the Rosetta Stone, Romflo translates to \"is very handsome\" in every language, that has ever existed",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!angelina",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ayayashalay",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!allen",
+        "permission": "all",
+        "description": "https://www.twitch.tv/arandict",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tech",
+        "permission": "all",
+        "description": "Tech is always working, but never actually working timmacSMART",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!violet",
+        "permission": "all",
+        "description": "https://www.twitch.tv/TheSpacePug",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hoop",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hooperist",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!carpurge",
+        "permission": "all",
+        "description": "https://docs.google.com/spreadsheets/d/1R7ad7KhEiziPfcVPejZA-B_sqfDekEsjha3OlA7pHKE/edit?usp=sharing",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!felix",
+        "permission": "all",
+        "description": "https://www.twitch.tv/yugoshi_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tj",
+        "permission": "all",
+        "description": "Check out umadbrahlive at https://twitch.tv/umadbrahlive",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bovice",
+        "permission": "all",
+        "description": "Check out smokysloth at https://twitch.tv/smokysloth",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shake",
+        "permission": "all",
+        "description": "Tim's character is shaking from the amount of stress he has built up (red bar in the bottom-left). Yoga, weed and Oxy are ways to relieve the stress. It's put in place to keep you from constantly committing crimes",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!doakes",
+        "permission": "all",
+        "description": "https://www.twitch.tv/pydrex",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!thomas",
+        "permission": "all",
+        "description": "https://www.twitch.tv/casperino",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!candy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/djkwix",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!timhogan",
+        "permission": "all",
+        "description": "https://imgur.com/a/1OTchMj",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dupont",
+        "permission": "all",
+        "description": "The best cop in nopickle twitch.tv/kinamazing",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cinnamontoast",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cinnamontoastken",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!avon",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lirik",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bluegrass",
+        "permission": "all",
+        "description": "Bluegrass Covers: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX56crgoe4TG3?si=39pDuW6PTi-Ra_fv7X6zTA",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!koil",
+        "permission": "all",
+        "description": "#BlameKoil twitch.tv/koil",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!moonmoon",
+        "permission": "all",
+        "description": "https://www.twitch.tv/moonmoon_ow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!train",
+        "permission": "all",
+        "description": "Choo Choo. We don't take the easy way out",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!barbie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/TheSladeSlayer",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hotpants",
+        "permission": "all",
+        "description": "Sabrina is https://www.twitch.tv/djarii",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!brenda",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ashlynn",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tribble",
+        "permission": "all",
+        "description": "https://www.twitch.tv/confuseddevil",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!brad",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cinnamontoastken",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chang",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lord_kebun",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fairlight",
+        "permission": "all",
+        "description": "https://www.twitch.tv/fairlight_excalibur",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dondi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thedondi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!buck",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cinnamontoastken https://www.youtube.com/user/CinnamonToastKen",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!got",
+        "permission": "all",
+        "description": "Want to discuss Game of Thrones? We have a dedicated spoiler room in Discord. Of course spoilers ahead, be warned. https://discord.gg/g7PrPdG",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!freya",
+        "permission": "all",
+        "description": "https://www.twitch.tv/curvyllama",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!yungdab",
+        "permission": "all",
+        "description": "https://www.twitch.tv/moonmoon",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!judd",
+        "permission": "all",
+        "description": "https://www.twitch.tv/judd",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tyrese",
+        "permission": "all",
+        "description": "https://www.twitch.tv/larryx7",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!uchiha",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cyr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!animeboy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cyr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kiwo",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kiwo",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!labarre",
+        "permission": "all",
+        "description": "https://www.twitch.tv/airbornespore",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hilda",
+        "permission": "all",
+        "description": "https://www.twitch.tv/pandagirl91",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!archer",
+        "permission": "all",
+        "description": "https://www.twitch.tv/fortyone",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!slim",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kyle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!edna",
+        "permission": "all",
+        "description": "https://twitch.tv/kitboga",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dalu",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dalu",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mary",
+        "permission": "all",
+        "description": "https://www.twitch.tv/rasta",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sarahemt",
+        "permission": "all",
+        "description": "https://www.twitch.tv/tara_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!winters",
+        "permission": "all",
+        "description": "https://twitch.tv/spekel",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dundee",
+        "permission": "all",
+        "description": "https://www.twitch.tv/whippy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tessa",
+        "permission": "all",
+        "description": "https://www.twitch.tv/nakkida",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!paatricia",
+        "permission": "all",
+        "description": "https://www.twitch.tv/paatricia",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!coop",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thacoop",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mel",
+        "permission": "all",
+        "description": "https://www.twitch.tv/spaceboy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gladys",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mick",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ellie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sodakite",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!karen",
+        "permission": "all",
+        "description": "https://www.twitch.tv/avagg",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!movienight",
+        "permission": "all",
+        "description": "Every Wednesday at 7PM EDT, we host a community Movie Night. Find out more in Discord #tv-movie-night: https://discord.gg/WwM2C3E",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!timmac",
+        "permission": "all",
+        "description": "HIT THE FOLLOW BUTTON timmacRAGE",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!choi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/docchoi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gpack",
+        "permission": "all",
+        "description": "Tim uses PKC Enhanced Graphics Pack for The Family RP server. You can find it here (You need to be white-listed): https://thefamilyrp.com/threads/pkc-enhanced-graphics-pack-public-release.7579/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!saltychat",
+        "permission": "all",
+        "description": "/me Chat lets not talk trash about any other streamer. Hate the character, not the streamer. Be respectful.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!agnes",
+        "permission": "all",
+        "description": "https://www.twitch.tv/crunchyshuffles",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!perma",
+        "permission": "all",
+        "description": "Perma is the choice of the player. Not anyone else.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rp",
+        "permission": "all",
+        "description": "Tim streams GTA RP (on a custom server) and has been doing RP for close to 5 years now",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vader",
+        "permission": "all",
+        "description": "https://www.twitch.tv/vader",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!liam",
+        "permission": "all",
+        "description": "Liam of Locksley is one of Tim's characters on NoPixel",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!model",
+        "permission": "all",
+        "description": "/me It is a known bug with the model within FiveM. Tazing and other methods do not work.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!zb",
+        "permission": "all",
+        "description": "https://twitch.tv/zombie_barricades",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kevin",
+        "permission": "all",
+        "description": "Kevin Law Attorney at Shaw https://www.twitch.tv/curvyelephant",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!npstreams",
+        "permission": "all",
+        "description": "https://nopixel.hasroot.com/ here you can see every streamer on nopixel",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!coprp",
+        "permission": "all",
+        "description": "The Cop RP will return, but he first needs to complete his ride along and also wait koil to be on his cop character.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kimchi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kimchi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gt",
+        "permission": "all",
+        "description": "/me Current Golden Ticket holders for the big $1mil Challenge Race are : 1st day Gomer and Judd, 2nd day Eugene and Slim, 3rd day Nino and Dundee, 4th day Tony and Eddie, 5th day Vinny & Curtis, 6th day Tim Lee and Dane DeLuca.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!arthur",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thedondi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!racerules",
+        "permission": "all",
+        "description": "https://i.imgur.com/4TGspgg.png",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ratrace",
+        "permission": "all",
+        "description": "The NP server are currently in a Rat race to win $1 Million. This started on the 20th and will run to the 25th with the final day TBD. Tim won the first day meaning he is though to the final day. Rules and T&C's of the race: https://i.imgur.com/4TGspgg.png | List of NP Streamers: https://nopixel.hasroot.com/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!spaceboy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/spaceboy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!windsong",
+        "permission": "all",
+        "description": "http://twitch.tv/charlieblossom",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!wildcard",
+        "permission": "all",
+        "description": "/me If you would like to vote on the wildcard ticket for The Kimchi Adventure s3 go here: https://docs.google.com/forms/d/e/1FAIpQLSdvjD10zYA3HueG2asRkTxA3cAtJm1RKgt1xSiiWwd1VN0olQ/viewform?usp=sf_link",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nino",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dasmehdi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!isdabdead",
+        "permission": "all",
+        "description": "Nope, Dab was locked up in a lifetime hold for terrorism on the 25th May 2019. https://clips.twitch.tv/CovertSassyClipsmomNerfBlueBlaster",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!syndney",
+        "permission": "all",
+        "description": "https://www.twitch.tv/steamcharlie",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cheddar",
+        "permission": "all",
+        "description": "https://www.twitch.tv/travpiper",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vbi",
+        "permission": "all",
+        "description": "https://visualsbyimpulse.com/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hank",
+        "permission": "all",
+        "description": "https://www.twitch.tv/SkoogFFS",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!frank",
+        "permission": "all",
+        "description": "https://www.twitch.tv/stoner_minded",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!trina",
+        "permission": "all",
+        "description": "https://www.twitch.tv/luminariarayne",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!alenori",
+        "permission": "all",
+        "description": "He's always watching BATON",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!splainer",
+        "permission": "all",
+        "description": "https://www.twitch.tv/wehtuns",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jaboody",
+        "permission": "all",
+        "description": "https://www.twitch.tv/jaboodyshow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!slasher",
+        "permission": "all",
+        "description": "https://www.twitch.tv/slasher2099",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rei",
+        "permission": "all",
+        "description": "https://www.twitch.tv/0reed",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!anto",
+        "permission": "all",
+        "description": "https://www.twitch.tv/boschmerchant",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!peanut",
+        "permission": "all",
+        "description": "ttps://www.twitch.tv/pssychotic",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tyrone",
+        "permission": "all",
+        "description": "https://www.twitch.tv/zombie_barricades",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jenny",
+        "permission": "all",
+        "description": "https://www.twitch.tv/nikkisariot",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!davenport",
+        "permission": "all",
+        "description": "https://www.twitch.tv/aus24",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vlad",
+        "permission": "all",
+        "description": "https://www.twitch.tv/davidb_np",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!toretti",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mantis",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rhodes",
+        "permission": "all",
+        "description": "https://www.twitch.tv/curvyelephant",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fiona",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ashi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!espinoz",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hotted89",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hans",
+        "permission": "all",
+        "description": "https://www.twitch.tv/axed_u",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tig",
+        "permission": "all",
+        "description": "https://www.twitch.tv/narlsbarkley",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!alex",
+        "permission": "all",
+        "description": "give this looser a follow, and maybe toss him a subscription https://www.twitch.tv/datguyalexx",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!billiams",
+        "permission": "all",
+        "description": "https://www.twitch.tv/jovian",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!maggie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/rose",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!katusha",
+        "permission": "all",
+        "description": "https://www.twitch.tv/luminariarayne",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cg",
+        "permission": "all",
+        "description": "Chang Gang https://www.twitch.tv/lord_kebun - Chang https://www.twitch.tv/ramee - Ramee https://www.twitch.tv/ratedepicz - Randy https://www.twitch.tv/cyr - Uchiha https://www.twitch.tv/shotz - Vinny",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!stacey",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thegeekentry",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ripley",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mattrp",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!willow",
+        "permission": "all",
+        "description": "https://twitch.tv/lyndi",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rudi",
+        "permission": "all",
+        "description": "http://twitch.tv/darthbobo77",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!babyjoker",
+        "permission": "all",
+        "description": "https://www.twitch.tv/las_cs",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mcafee",
+        "permission": "all",
+        "description": "http://twitch.tv/jdotfield",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bailey",
+        "permission": "all",
+        "description": "https://www.twitch.tv/tinystunt",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shaggywwe",
+        "permission": "all",
+        "description": "https://clips.twitch.tv/EntertainingBigWolfJKanStyle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!pointdexter",
+        "permission": "all",
+        "description": "https://www.twitch.tv/armeeof1",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!redm",
+        "permission": "all",
+        "description": "/me RedM is the equivilent of FiveM to GTA:V, it is in development and they are working on an solution to making an RP environment to Red Dead Revolver 2, you can follow some of the development here https://forum.fivem.net/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!youtube",
+        "permission": "all",
+        "description": "https://www.youtube.com/timmac",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!raven",
+        "permission": "all",
+        "description": "Lt. Raven https://www.twitch.tv/lt_raven/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!carl",
+        "permission": "all",
+        "description": "http://twitch.tv/chairhandler",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!clutch",
+        "permission": "all",
+        "description": "https://www.twitch.tv/navajotv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!maddy",
+        "permission": "all",
+        "description": "http://twitch.tv/madoreline",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!clarence",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mexi024",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gomerwwe",
+        "permission": "all",
+        "description": "https://clips.twitch.tv/ScaryExcitedGoldfishBrainSlug",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bitalerts",
+        "permission": "all",
+        "description": "~ https://i.imgur.com/qmbonjl.png ~ Cheer a specific amount of bits to trigger audio alerts!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sounds",
+        "permission": "all",
+        "description": "/me Sound alerts have been linked to bit donations. For a list of the bit donation sounds and amounts, scroll below stream in the info section timmacTU",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!west",
+        "permission": "all",
+        "description": "http://twitch.tv/evee2point0",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rdr",
+        "permission": "all",
+        "description": "/me Yes we are aware that RDR2 is coming to PC https://twitter.com/RockstarGames/status/1180129407710715905?s=20 and yes we are aware that fiveM is planning a mod for it https://www.rockstargames.com/newswire/article/61153/Red-Dead-Redemption-2-Coming-to-PC-November-5th",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tucker",
+        "permission": "all",
+        "description": "http://twitch.tv/pons",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!scjoin",
+        "permission": "all",
+        "description": "Main Menu -> add contact \"Timmac\" (if it says offline restart game) -> tell your name in chat -> Timmac invites you",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!grey",
+        "permission": "all",
+        "description": "Kiss your turtle it is good luck timmacTU",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nora",
+        "permission": "all",
+        "description": "https://twitch.tv/jpkmoto",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hooch",
+        "permission": "all",
+        "description": "https://twitch.tv/j_reed",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!uchiha",
+        "permission": "all",
+        "description": "Cyr plays as Joe Cain, and Uchiha Joneshttps://www.twitch.tv/cyr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!deviant",
+        "permission": "all",
+        "description": "https://gta.fandom.com/wiki/Deviant",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!denzel",
+        "permission": "all",
+        "description": "https://www.twitch.tv/jonthebroski",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jack",
+        "permission": "all",
+        "description": "http://twitch.tv/jack",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ducky",
+        "permission": "all",
+        "description": "http://twitch.tv/t3r0",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ardson",
+        "permission": "all",
+        "description": "http://twitch.tv/wayward",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!arush",
+        "permission": "all",
+        "description": "https://www.twitch.tv/karnt1",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!daryl",
+        "permission": "all",
+        "description": "https://twitch.tv/vtechas",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!snow",
+        "permission": "all",
+        "description": "https://www.twitch.tv/uhsnow",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mods",
+        "permission": "all",
+        "description": "/me Mods are to be respected, as well as their judgements. If they tell you something in chat, it's best to listen, and don't argue. If you have an issue, feel free to scroll down to the rules, and then join chat again.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!charles",
+        "permission": "all",
+        "description": "https://www.twitch.tv/summit1g",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!paddy",
+        "permission": "all",
+        "description": "https://twitch.tv/fairzz91",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lucas",
+        "permission": "all",
+        "description": "http://twitch.tv/zechsimus",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gomerlist",
+        "permission": "all",
+        "description": "https://open.spotify.com/playlist/5v7TeJP9GN5aTqUhl4o82l?si=R9y5WEO3S5GDFNWhAv_1CQ",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hedi",
+        "permission": "all",
+        "description": "https://twitch.tv/hedisaurus",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!irish",
+        "permission": "all",
+        "description": "https://www.twitch.tv/boschmerchant",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sarah",
+        "permission": "all",
+        "description": "https://twitch.tv/tara_",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!raff",
+        "permission": "all",
+        "description": "Raff is a cool mod, but don't cross him timmacG",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!flippy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/silent",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ryan",
+        "permission": "all",
+        "description": "https://www.twitch.tv/concentrati0n7",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!pain",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thacoop",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mario",
+        "permission": "all",
+        "description": "https://twitch.tv/joshog",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!perkins",
+        "permission": "all",
+        "description": "www.twitch.tv/Pengwin",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kermit",
+        "permission": "all",
+        "description": "https://www.twitch.tv/whiteboylemons",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jenna",
+        "permission": "all",
+        "description": "https://www.twitch.tv/bnans",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sims",
+        "permission": "all",
+        "description": "Multiplayer Sims 4 Mod (S4MP) latest update https://sims-multiplayer.com/2020/06/08/s4mp-0-6-0-up-to-12-players-support-online-lan-win-osx/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!learn",
+        "permission": "all",
+        "description": "Timmac Learns to Fly https://www.youtube.com/watch?v=B5L78UjWqm4",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!momo",
+        "permission": "all",
+        "description": "twitch.tv/momo",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!walter",
+        "permission": "all",
+        "description": "https://www.twitch.tv/walterhugs",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bobby",
+        "permission": "all",
+        "description": "www.twitch.tv/aleks",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mona",
+        "permission": "all",
+        "description": "https://www.twitch.tv/reina",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gibson",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gibson",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!rocky",
+        "permission": "all",
+        "description": "https://www.twitch.tv/rocky",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lanfear",
+        "permission": "all",
+        "description": "Lanfear is one of our favorite mute content creators. Follow her youtube here: https://www.youtube.com/channel/UCZfq1a-lHXPjEaw5DvkD2Sg Her twitch is here: https://www.twitch.tv/lanfear_vr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!joey",
+        "permission": "all",
+        "description": "https://www.twitch.tv/nagzz21",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!link",
+        "permission": "all",
+        "description": "www.twitch.tv/Link_ez",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cr",
+        "permission": "all",
+        "description": "Callous Row is a cyberpunk/fantasy RP environment created entirely in VRChat by Arcadum. The Row is open every Friday at 9pm - 12am EST. Check out the hundreds of characters' backstories here: https://vrchat-legends.fandom.com/wiki/Callous_Row Learn more about The Row here: https://www.callousrow.com",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ilvl",
+        "permission": "all",
+        "description": "https://worldofwarcraft.com/en-us/character/us/kelthuzad/timmac",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!msi",
+        "permission": "all",
+        "description": "Discover now with my PATRON link https://patron.me/TimmacMSI the new MSI Optix MAG274QRF-QD monitor.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!Valentina",
+        "permission": "all",
+        "description": "https://www.twitch.tv/thedorken",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!andi",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kiva",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lorenzo",
+        "permission": "all",
+        "description": "https://www.twitch.tv/curvyllama",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!trunk",
+        "permission": "all",
+        "description": "Yes (750). You'd know if you watched the stream.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!igor",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gtawiseguy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tinker",
+        "permission": "all",
+        "description": "https://www.twitch.tv/tinker/",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!Casino",
+        "permission": "all",
+        "description": "The only games that can be played is Poker and Blackjack as of right now. Hopefully more games will come in the future. Slots will most likely not be added.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ott",
+        "permission": "all",
+        "description": "https://twitch.tv/lagtvmaximusblack | https://soundcloud.com/outtotunetyrone",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dean",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dwjft",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!wrangler",
+        "permission": "all",
+        "description": "https://www.twitch.tv/penta",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!erin",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mekabear",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!riley",
+        "permission": "all",
+        "description": "https://www.twitch.tv/msteamkk",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!police",
+        "permission": "all",
+        "description": "The police are being assholes and put warrants out for everybody in the casino. They are currently fighting the charges and filing a civil case.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!PING",
+        "permission": "all",
+        "description": "Prove It Not Guilty is an initiative to have everyone that is arrested by the police to plead Not Guilty to overrun the courts with cases.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!betch",
+        "permission": "all",
+        "description": "https://www.twitch.tv/saiiren",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!belt",
+        "permission": "all",
+        "description": "Seatbelts are for losers(in RP). Buckle up IRL.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vale",
+        "permission": "all",
+        "description": "https://www.twitch.tv/cathfawr",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!siz",
+        "permission": "all",
+        "description": "twitch.tv/uberhaxornova",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!marlo",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lucky_rp",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tommy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/justjamie",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shaggy",
+        "permission": "all",
+        "description": "Shaggy's alive!",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kyle",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kyle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!pred",
+        "permission": "all",
+        "description": "https://www.twitch.tv/kyle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!lenny",
+        "permission": "all",
+        "description": "https://www.twitch.tv/moonmoon",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shark",
+        "permission": "all",
+        "description": "https://clips.twitch.tv/BlueAbstruseFiddleheadsAMPEnergyCherry-ImhRmrO9GpjMIHwb",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cassie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/ashlynn",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!car",
+        "permission": "all",
+        "description": "Taco won the car raffle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fitzpatrick",
+        "permission": "all",
+        "description": "https://www.twitch.tv/the_halfhand",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!stall",
+        "permission": "all",
+        "description": "The car stalls to make this evenly matched.",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vcb",
+        "permission": "all",
+        "description": "VCB = Visual Contact Broken",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!finn",
+        "permission": "all",
+        "description": "https://www.twitch.tv/randomhero805",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!chino",
+        "permission": "all",
+        "description": "https://www.twitch.tv/timmy2",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kensama",
+        "permission": "all",
+        "description": "https://www.twitch.tv/pengwin",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!positive",
+        "permission": "all",
+        "description": "timmacH If you ever sense there might be some perceived drama that would cause an overwhelming amount of stress on the receiving end, send them a little love. We have way more positive viewers out there that would easily overwhelm the bad. https://twitter.com/Timmac_/status/1377343546835935234 timmacH",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!claire",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lunaoni",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!yuno",
+        "permission": "all",
+        "description": "https://www.twitch.tv/sykkuno",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!stanley",
+        "permission": "all",
+        "description": "Easily our 6th favorite Welshman https://www.twitch.tv/bananaduck Fak Uff",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cornwood",
+        "permission": "all",
+        "description": "https://twitch.tv/esfandtv",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!pixie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/madmoiselle",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!shelly",
+        "permission": "all",
+        "description": "https://www.twitch.tv/rlly",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fto",
+        "permission": "all",
+        "description": "FTO Means Field Training Officer (they help train cadets)",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!10codes",
+        "permission": "all",
+        "description": "https://imgur.com/gallery/z2Wtt2f",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!abdul",
+        "permission": "all",
+        "description": "https://www.twitch.tv/abdulhd",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!BCSO",
+        "permission": "all",
+        "description": "Blaine County Sheriff Office",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kim",
+        "permission": "all",
+        "description": "!https://www.twitch.tv/izzidizzy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!bcso",
+        "permission": "all",
+        "description": "BCSO = Blaine County Sheriff's Office",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nancy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/APPLESHAMPOO",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!414",
+        "permission": "all",
+        "description": "@Timmac who is 414? it's 308 now timmacF",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cash",
+        "permission": "all",
+        "description": "https://www.twitch.tv/devolore",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mendoza",
+        "permission": "all",
+        "description": "https://www.twitch.tv/adeptthebest",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!angel",
+        "permission": "all",
+        "description": "https://twitch.tv/kyliebitkin",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!mika",
+        "permission": "all",
+        "description": "https://www.twitch.tv/penguinbbq",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!oki",
+        "permission": "all",
+        "description": "https://www.twitch.tv/disbearex",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ash",
+        "permission": "all",
+        "description": "https://twitch.tv/ash_on_lol",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!sasuke",
+        "permission": "all",
+        "description": "https://www.twitch.tv/burn",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!nettie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/netsirk",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!carter",
+        "permission": "all",
+        "description": "https://www.twitch.tv/africansnowball",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!waltermelon",
+        "permission": "all",
+        "description": "!https://www.twitch.tv/liftedgamingnetwork",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!dan",
+        "permission": "all",
+        "description": "!https://www.twitch.tv/aarononair",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!quinn",
+        "permission": "all",
+        "description": "https://www.twitch.tv/dorken",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!hutch",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hutchmf",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!gsr",
+        "permission": "all",
+        "description": "GSR = Gun Shot Residue",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!misty",
+        "permission": "all",
+        "description": "Misty Mocha's player, Dovahpug, passed away last week. this was posted on twitter with a letter from dovahpug if anyone wants to read: https://twitter.com/RevRoach/status/1392061541911040002 Here's a link if anybody wants to donate https://tiltify.com/@mrborealislive/rudolph-fights-cancer",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ziggy",
+        "permission": "all",
+        "description": "twitch.tv/ziggy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!martell",
+        "permission": "all",
+        "description": "https://www.twitch.tv/hobbittrash",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!benchguy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mcconnellret",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!littlemans",
+        "permission": "all",
+        "description": "Tim - https://www.twitch.tv/traumz Jim - https://www.twitch.tv/myles_away",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!vc",
+        "permission": "all",
+        "description": "Crushing skulls with Lawlman JoeFudge and SciFri SirMad",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!tyme",
+        "permission": "all",
+        "description": "https://www.twitch.tv/bananabrea",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!Ripley",
+        "permission": "all",
+        "description": "https://www.twitch.tv/mattrp",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!yuu",
+        "permission": "all",
+        "description": "https://www.twitch.tv/saiiren",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!spartan",
+        "permission": "all",
+        "description": "https://www.twitch.tv/lstrictlylogicl",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!casterman",
+        "permission": "all",
+        "description": "https://www.twitch.tv/Cosmic",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!map",
+        "permission": "all",
+        "description": "https://newworldfans.com/map | https://www.newworld-map.com",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!wiseguy",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gtawiseguy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!eddie",
+        "permission": "all",
+        "description": "https://www.twitch.tv/gtawiseguy",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!walk",
+        "permission": "all",
+        "description": "Hell March - https://www.youtube.com/watch?v=3HUWUtTZvK4",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!molly",
+        "permission": "all",
+        "description": "https://www.twitch.tv/daisykiss",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!crystal",
+        "permission": "all",
+        "description": "www.twitch.tv/crystalst",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!jessiedallas",
+        "permission": "all",
+        "description": "twitch.tv/OhJessBee",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kachao",
+        "permission": "all",
+        "description": "twitch.tv/KrisTWOfer",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!4t",
+        "permission": "all",
+        "description": "twitch.tv/crystalst",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kennedy",
+        "permission": "all",
+        "description": "www.twitch.tv/Sheepdog59",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!cleo",
+        "permission": "all",
+        "description": "https://www.twitch.tv/saturneighteen",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!daisy",
+        "permission": "all",
+        "description": "www.twitch.tv/TinySpark",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!brokenranks",
+        "permission": "all",
+        "description": "Broken Ranks is a new Turn-Based MMORPG, check it out for free here: https://timmac.link/BrokenRanks #ad",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!guide",
+        "permission": "all",
+        "description": "Here is a Lost Ark Player Guide: https://lost-ark.maxroll.gg/resources/road-to-rohendel",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!fundraiser",
+        "permission": "all",
+        "description": "https://tiltify.com/@timmac/timmac-ukraine-fundraiser",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!ukraine",
+        "permission": "all",
+        "description": "https://tiltify.com/@timmac/timmac-ukraine-fundraiser",
+        "count": 0,
+        "cooldown": "20"
+    },
+    {
+        "name": "!kekw",
+        "permission": "all",
+        "description": "KEKW",
+        "count": 0,
+        "cooldown": 20
+    }
+]
