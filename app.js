@@ -1,11 +1,20 @@
 import Twitch from './src/clients/twitch.js';
 import MongoServer, { mongoose } from './src/clients/database.js';
 import { config } from './src/configs/index.js';
+import fs from 'fs';
+import path from 'path';
 
-function run() {
+async function run() {
 	global.debug = true;
 	global.channel = global.debug ? config.debugChannel : config.channel;
 	global.maintenance = false;
+
+	try {
+		fs.readFileSync(path.resolve(process.cwd(), "./src/config/secrets.js"));
+	} catch {
+		console.log("ATTENTION: You need to create a secrets.js file in the src/config folder. You have a secrets.js.example file to help you.")
+		process.exit(1);
+	}
 
 	// initialize mongoDB connection
 	MongoServer().then(() => {
