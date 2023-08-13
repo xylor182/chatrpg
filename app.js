@@ -10,7 +10,7 @@ async function run() {
 	global.maintenance = false;
 
 	try {
-		fs.readFileSync(path.resolve(process.cwd(), "./src/config/secrets.js"));
+		void fs.readFileSync(path.resolve(process.cwd(), "./src/configs/secrets.js"));
 	} catch {
 		console.log("ATTENTION: You need to create a secrets.js file in the src/config folder. You have a secrets.js.example file to help you.")
 		process.exit(1);

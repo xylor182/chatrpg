@@ -81,6 +81,8 @@ export async function run() {
 	chat.on(`PRIVMSG/#${config.debugChannel}`, ({ message, tags }) => {
 		printLog(`${tags.displayName}: ${message}`, true);
 
+		if (global.maintenance) return;
+
 		if (message.substring(0, 1) === "!") {
 			const splitMessage = message.split(" ");
 			const command = splitMessage[0].toLowerCase();
