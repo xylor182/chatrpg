@@ -1,16 +1,12 @@
 {
-	"name": "timmactv",
-	"version": "2.0.0",
+	"name": "chatrpg",
+	"version": "1.0.0",
 	"private": true,
-	"description": "twitch and discord bot",
+	"description": "twitch chat rpg bot",
 	"main": "app.js",
 	"nodemonConfig": {
 		"watch": [
-			"clients/*",
-			"configs/*",
-			"services/*",
-			"models/*",
-			"utils/*"
+			"src/*"
 		],
 		"ignore": [
 			"**/__tests__/**",
@@ -25,8 +21,6 @@
 	"author": "Xylor",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "^0.21.1",
-		"discord.js": "^12.5.3",
 		"luxon": "^1.27.0",
 		"mongoose": "^5.9.2",
 		"nodemon": "^3.0.1",
